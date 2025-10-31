@@ -1,4 +1,4 @@
- Tomato: A Food Delivery App
+ **A Food Delivery App**
 
 Tomato is a full-featured, responsive food delivery application built using the MERN stack (MongoDB, Express, React, Node.js) with Stripe payment integration. This project delivers a seamless experience for customers, administrators, and delivery personnel, combining a user-friendly frontend, a robust backend, and an intuitive admin panel into a single, comprehensive platform. 
 
@@ -23,11 +23,6 @@ Tomato is a full-featured, responsive food delivery application built using the 
 - Real-Time Updates: With WebSockets, users receive live updates on their order status from the moment they place it until delivery.
 - Security: Data protection and secure endpoints, with encrypted user information and secure payment processing via Stripe.
 
- Technology Stack
-- Frontend: React, CSS3, Bootstrap/Material UI for styling, and Stripe integration for payment processing.
-- Backend: Node.js with Express.js, and WebSockets for real-time updates.
-- Database: MongoDB for efficient, scalable data storage.
-- Payment Integration: Stripe for secure and seamless payment processing.
 
  Getting Started
 1. Clone the Repository: `git clone <repo-url>`
